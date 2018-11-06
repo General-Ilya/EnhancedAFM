@@ -1,0 +1,3 @@
+[submodule "AlignmentZtoCPD/HornReg"]
+	path = AlignmentZtoCPD/HornReg
+	url = https://github.com/Ilya-Muromets/HornReg
